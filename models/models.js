@@ -8,3 +8,7 @@ const Schema = new mongoose.Schema({
     token:{type:String},
 });
 module.exports = mongoose.model("user",Schema);
+
+// Student Name: Sujal
+// Student ID: 200598524
+// Date: 2024-11-15

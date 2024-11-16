@@ -86,3 +86,6 @@ return res.status(500).send('An error occured');
 
 module.exports = app;
 
+// Student Name: Sujal
+// Student ID: 200598524
+// Date: 2024-11-15
